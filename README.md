@@ -5,7 +5,8 @@ The purpose of this project is to provide the school district with an analysis o
 After concerns over academic dishonesty for Thomas High School 9th graders, the school district has requested that the grades for this student group to be removed from the performance data in an effort to normalize the analysis for fair performance comparisons.
 
 ## Results: 
-How is the district summary affected?
+
+## How is the district summary affected?
 ![](./Resources/district summary.png).
 The district overall passing percentage dropped from 65.2% to 64.9%. This was a result of passing math stundent percentages changing from 75.5% to 74.8% and passing reading percentages dropping from 85.8% to 85.7% respectively.
 
@@ -16,7 +17,7 @@ In the school summary the only school affected by the changes is Thomas High Sch
 ![](./Resources/THS_top_5.png).
 The score replacement improves Thomas High School's overall passing percentage from 65.07% to 91.09% and puts THS higher up on the board as the second shool with the highest overall passing %.
 
-## How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 -Math and reading scores by grade
 ![](./Resources/math_reading_scores_by_grade.png).
 Only Thomas High School math and reading scores were affected by this change.
